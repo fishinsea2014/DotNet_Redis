@@ -10,6 +10,12 @@ namespace Jason.Redis
     {
         static void Main(string[] args)
         {
+            ServiceStackTest.Show();
+
+            OversellTest.Show();
+
+
+            Console.Read();
         }
     }
 }

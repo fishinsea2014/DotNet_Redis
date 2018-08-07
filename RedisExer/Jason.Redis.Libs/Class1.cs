@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jason.Redis.Dlls
+namespace Jason.Redis.Libs
 {
     public class Class1
     {
